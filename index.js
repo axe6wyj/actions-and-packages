@@ -1,1 +1,1 @@
-console.log("Hello, Actions and GPR!")
+console.log("Hello, Weeple and GPR!")
